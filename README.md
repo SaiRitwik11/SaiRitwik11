@@ -1,24 +1,33 @@
 # Hi, I'm Sai Ritwik 👋
 **Data Analyst | SQL • Python • Power BI**
 
-Data Analyst with a background in data quality and operations, skilled in using SQL, Python, and Power BI to translate raw data into actionable business insights and product decisions.
+Turning data into actionable business decisions.
 
-### 🛠️ Tech Stack
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+## 🧠 About Me
+I come from a data quality and operations background, where I worked on ensuring data accuracy and resolving discrepancies in real-world workflows.
 
-### 📊 Featured Analytics Projects
+Now, I use SQL, Python, and Power BI to analyze data and solve business problems — not just build dashboards.
 
-**[Ecommerce Revenue & Customer Behavior Analytics](https://github.com/SaiRitwik11/ecommerce-sql-analytics)**
-* **Tech:** MySQL, Advanced SQL (CTEs, Window Functions)
-* **Impact:** Analyzed a 5-table ecommerce database and uncovered a $708K revenue leak driven by North American product return patterns. Identified a 95.98% repeat customer rate to guide retention strategy.
+## 🚀 Featured Projects
 
-**[Bellabeat User Behavior Analysis & Product Strategy](https://github.com/SaiRitwik11/bellabeat-wellness-analysis)**
-* **Tech:** SQL, Python, Power BI
-* **Impact:** Discovered a -0.22 correlation between activity and sleep quality. Developed a 4-page interactive Power BI dashboard and delivered 3 data-driven product recommendations.
+### 🔹 [Bellabeat Product Analysis](https://github.com/SaiRitwik11/bellabeat-wellness-analysis)
+- Identified weak correlation (-0.22) between activity and sleep
+- Found 47:1 sedentary-to-active ratio
+- Built stakeholder-focused Power BI dashboard to support product decision-making
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-ritwik-dataanalyst)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairitwik008@gmail.com)
+### 🔹 [Ecommerce Revenue Analysis](https://github.com/SaiRitwik11/ecommerce-sql-analytics)
+- Discovered $708K revenue loss due to return patterns
+- Identified 32% return rate in North America
+- Built 25+ SQL queries using CTEs & Window Functions
+- Provided insights to improve return rate and retention strategy
+
+---
+
+## 🛠️ Tools & Technologies
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-ritwik-dataanalyst) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairitwik008@gmail.com)
+
+---
+⭐ If you find my work interesting, feel free to connect or explore my projects!
