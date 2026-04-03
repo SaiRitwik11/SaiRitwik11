@@ -18,6 +18,8 @@ Now, I use SQL, Python, and Power BI to analyze data and solve business problems
 - Built stakeholder-focused Power BI dashboard to support product decision-making
 
 ### 🔹 [Ecommerce Revenue Analysis](https://github.com/SaiRitwik11/ecommerce-sql-analytics)
+<img width="1041" height="306" alt="Revenue_Leak" src="https://github.com/user-attachments/assets/4524d57a-d6b8-44f4-ab5a-86e7c80b4a93" />
+
 - Discovered $708K revenue loss due to return patterns
 - Identified 32% return rate in North America
 - Built 25+ SQL queries using CTEs & Window Functions
