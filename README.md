@@ -11,6 +11,8 @@ Now, I use SQL, Python, and Power BI to analyze data and solve business problems
 ## 🚀 Featured Projects
 
 ### 🔹 [Bellabeat Product Analysis](https://github.com/SaiRitwik11/bellabeat-wellness-analysis)
+<img width="1273" height="720" alt="dashboard_page1_Executive" src="https://github.com/user-attachments/assets/9225ab69-8908-46b6-9b9e-01e21a5e1529" />
+
 - Identified weak correlation (-0.22) between activity and sleep
 - Found 47:1 sedentary-to-active ratio
 - Built stakeholder-focused Power BI dashboard to support product decision-making
