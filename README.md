@@ -2,7 +2,14 @@
 **Data Analyst | SQL • Python • Power BI**
 
 ## 🧠 About Me
-I turn data into actionable business insights — with a strong focus on **data accuracy, validation, and real-world decision impact**.
+I specialize in identifying data failures that silently impact business decisions — from missing records to incorrect metrics.
+
+My focus:
+• Data quality & reconciliation  
+• SQL-based validation systems  
+• Translating data issues into business impact  
+
+I don’t just analyze data — I verify whether it can be trusted.
 
 With a background in operations and quality assurance, I approach data differently:
 
@@ -17,12 +24,11 @@ With a background in operations and quality assurance, I approach data different
 <img width="1273" height="720" alt="Executive_summary" src="https://github.com/SaiRitwik11/Cloud-Migration-Reconciliation-Audit/blob/main/dashboard/Executive_summary.png" />
 Validated data integrity during a legacy CRM → cloud warehouse migration using forensic SQL analysis.
 
-- Audited **56,046 records**
-- Identified **60 missing records (88 units lost)**
-- Detected **26 corrupted records (33 units variance)**
-- Quantified **121 units at risk**
-- Missing records distributed across all 3 years, concentrated in Q4 2021 and Q1 2022, suggesting sustained pipeline instability rather than a single failure event
-- Built a **2-page Power BI dashboard** for executive + operational use
+Built a forensic SQL reconciliation system to audit a legacy → cloud migration:
+• Detected 60 missing records (88 units lost)
+• Identified 26 corrupted records (33 units variance)
+• Quantified 121 total units at risk  
+• Designed a 2-page Power BI system for executive + operational use
 
 ---
 
