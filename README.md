@@ -38,14 +38,13 @@ Explored user activity and health data to derive product insights.
 
 ---
 
-### 💰 E-commerce Revenue Analysis
+### 🔹 [Ecommerce Revenue Analysis](https://github.com/SaiRitwik11/ecommerce-sql-analytics)
+<img width="1041" height="306" alt="Revenue_Leak" src="https://github.com/user-attachments/assets/4524d57a-d6b8-44f4-ab5a-86e7c80b4a93" />
 Analyzed transactional data to uncover revenue leakage and customer behavior patterns.
 
 - Identified **$708K potential revenue loss**
 - Used **joins, CTEs, and window functions**
 - Delivered insights for retention and revenue optimization
-
-👉 [View Project](YOUR_LINK)
 
 ---
 
