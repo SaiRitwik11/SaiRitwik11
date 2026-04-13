@@ -13,7 +13,8 @@ With a background in operations and quality assurance, I approach data different
 
 ## 🚀 Featured Projects
 
-### 🔹 [Cloud Migration Data Reconciliation Audit](https://github.com/SaiRitwik11/)
+### 🔹 [Cloud Migration Data Reconciliation Audit](https://github.com/SaiRitwik11/Cloud-Migration-Reconciliation-Audit)
+<img width="1273" height="720" alt="dashboard_page1_Executive" src="https://github.com/user-attachments/assets/9225ab69-8908-46b6-9b9e-01e21a5e1529" />
 Validated data integrity during a legacy CRM → cloud warehouse migration using forensic SQL analysis.
 
 - Audited **56,046 records**
@@ -22,8 +23,6 @@ Validated data integrity during a legacy CRM → cloud warehouse migration using
 - Quantified **121 units at risk**
 - Discovered **systematic failure pattern (Aug–Sep clustering)**
 - Built a **2-page Power BI dashboard** for executive + operational use
-
-👉 [View Project](YOUR_LINK)
 
 ---
 
