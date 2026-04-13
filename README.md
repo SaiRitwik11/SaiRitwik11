@@ -13,7 +13,7 @@ With a background in operations and quality assurance, I approach data different
 
 ## 🚀 Featured Projects
 
-### 🔍 Cloud Migration Data Reconciliation Audit
+### 🔹 [Cloud Migration Data Reconciliation Audit](https://github.com/SaiRitwik11/)
 Validated data integrity during a legacy CRM → cloud warehouse migration using forensic SQL analysis.
 
 - Audited **56,046 records**
@@ -27,14 +27,13 @@ Validated data integrity during a legacy CRM → cloud warehouse migration using
 
 ---
 
-### 📊 Bellabeat Product Analytics
+### 🔹 [Bellabeat Product Analysis](https://github.com/SaiRitwik11/bellabeat-wellness-analysis)
+<img width="1273" height="720" alt="dashboard_page1_Executive" src="https://github.com/user-attachments/assets/9225ab69-8908-46b6-9b9e-01e21a5e1529" />
 Explored user activity and health data to derive product insights.
 
 - Identified behavioral trends and usage patterns  
 - Built stakeholder-focused Power BI dashboard  
 - Translated raw data into business recommendations  
-
-👉 [View Project](YOUR_LINK)
 
 ---
 
